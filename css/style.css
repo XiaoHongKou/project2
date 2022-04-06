@@ -29,6 +29,7 @@ body
   position: relative;
   right:50%;
   width: auto;
+  list-style-type: none;
 }
 
 #navbar li a{
@@ -83,3 +84,7 @@ p {
     width: 350px;
     border-style:outset;
   }
+
+ul.demo {
+  list-style-type: none;
+}
